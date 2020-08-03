@@ -1,2 +1,2 @@
 # R_Language
-R Language basic command and also use RStudio for visualization.
+R Language basic code and also use RStudio for visualization.
